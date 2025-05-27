@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Spin-off of "The Bat"</title>
+        
+        <style>
+            
+        body{background-color:black}
+        p{color:gold}
+        h1{color:gold}
+        #heros{color:grey;}
+        #About{color:Gold;}
+        #funfacts{color:purple;}
+        #BruceWayne{color:gold;}
+        ol{color:grey;}
+        ul{color:purple;}
+        
+            
+        </style>
+        
+        
+    </head>
+    <body>
+    
+        <h1>Batman</h1>
+        
+        <img src="https://upload.wikimedia.org/wikipedia/en/c/c7/Batman_Infobox.jpg">
+        
+        <h2 id="About">Basic Info </h2>
+        
+        <p>Batman is a fictional superhero created by artist Bob Kane and writer Bill Finger, first appearing in Detective Comics #27 in 1939. By day, he is Bruce Wayne, a wealthy businessman and philanthropist in Gotham City; by night, he becomes Batman, a masked vigilante who fights crime using his intellect, detective skills, martial arts expertise, and a wide array of high-tech gadgets. Unlike many superheroes, Batman has no superpowers—his strength lies in his determination, fearlessness, and unyielding moral code. Driven by the trauma of witnessing his parents' murder, he dedicates his life to protecting the innocent and battling villains like the Joker, the Riddler, and Two-Face.<p>
+        
+        <h2 id="BruceWayne"> Secret Identity</h2>
+        <p>Bruce Wayne is a billionaire industrialist and philanthropist who lives in the fictional city of Gotham. Orphaned as a child after witnessing the murder of his parents, he grows up haunted by their loss and determined to fight crime. Using his wealth, intelligence, and physical training, Bruce adopts the secret identity of Batman to protect Gotham from criminals and corruption. Despite his public image as a charming and carefree playboy, Bruce is deeply driven, often struggling with the emotional weight of his dual life as both a man and a symbol of justice.</p>
+        
+        
+        <h2 id="heros">Associated With</h2>
+        <ol>
+        
+        <li>Superman
+        <li>Hawkman
+        <li>The Martian Manhunter
+        <li>Wonder Woman
+        <li>The Flash
+        <li>Dr. Fate
+        <li>Robin
+        <li>Aquaman
+       
+        </ol>
+        
+        <h2 id="funfacts">Facts</h2>
+        <ul>
+        
+        <li>Lives in Gothem
+        <li>Bruce Wayne
+        <li>Stopped being a kid at the age of 8
+        <li>Rich kid with issues
+        
+        </ul>
+        
+        
+        
+    </body> 
+    </html>
